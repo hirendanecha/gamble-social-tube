@@ -184,6 +184,7 @@ function strip_html_tags(str: any) {
 
 function run(): void {
   const port = process.env['PORT'] || 4001;
+  
 
   // Start up the Node server
   const server = app();
