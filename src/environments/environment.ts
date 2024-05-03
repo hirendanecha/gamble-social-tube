@@ -1,7 +1,7 @@
-const loginUrl = 'https://organic.dating/login';
-const logoutUrl = 'https://organic.dating/logout';
-const frontendUrl = 'https://tube.organic.dating/';
-const backendUrl =  'https://api.organic.dating/';
+const loginUrl = 'https://gamble.social/login';
+const logoutUrl = 'https://gamble.social/logout';
+const frontendUrl = 'https://tube.gamble.social/';
+const backendUrl =  'https://api.gamble.social/';
 
 // const frontendUrl = 'http://localhost:4200/';
 // const backendUrl = 'http://localhost:8080/';
@@ -15,7 +15,7 @@ export const environment = {
   backendUrl: backendUrl,
   loginUrl: loginUrl,
   apiUrl: `${backendUrl}api/v1/`,
-  domain: '.organic.dating',
+  domain: '.gamble.social',
   wasabiUrl: wasabiUrl,
   socketUrl: `${backendUrl}`,
   conferenceUrl: 'https://facetime.tube/',
