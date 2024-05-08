@@ -80,7 +80,7 @@ export function app(): express.Express {
         var seo: any = {
           title: 'Gamble.social',
           description:
-            'Find like minded male or female unvaccinated organic humans!',
+            'Online Gambling, Live Sports Gambling Social Platform',
           image:
             'https://tube.gamble.social/assets/Healing-Tube-Logo.jpg',
           site: 'https://tube.gamble.social/',
