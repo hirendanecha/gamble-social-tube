@@ -78,14 +78,14 @@ export function app(): express.Express {
         }
         const params = req.params[0];
         var seo: any = {
-          title: 'Gamble social',
+          title: 'Gamble.social',
           description:
             'Find like minded male or female unvaccinated organic humans!',
           image:
             'https://tube.gamble.social/assets/Healing-Tube-Logo.jpg',
           site: 'https://tube.gamble.social/',
           url: 'https://tube.gamble.social' + params,
-          keywords: 'Gamble social',
+          keywords: 'Gamble.social',
         };
         if (
           params.indexOf('channel/') > -1
